@@ -41,6 +41,8 @@ body {
     margin-left: 25px;
 }
 
+/* Changed header div to header nav */
+
 a {
     color: #ffffff;
     text-decoration: none;
